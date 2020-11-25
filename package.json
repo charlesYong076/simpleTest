@@ -1,0 +1,22 @@
+{
+  "name": "simpletest",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/charlesYong076/simpleTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesYong076/simpleTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesYong076/simpleTest/issues"
+  },
+  "homepage": "https://github.com/charlesYong076/simpleTest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
