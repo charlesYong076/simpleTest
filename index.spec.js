@@ -1,6 +1,6 @@
 const { expect } = require("@jest/globals");
 const {handler} = require("./index");
 
-test("My first test", async () => {
-    expect(await handler({}, {})).resolves.toBe(2);
+test("My first test", () => {
+    expect(handler({x:1}, {})).resolves.toBe(2);
 })
